@@ -41,5 +41,5 @@ db > .indextree
 
 ## use
 
-![image-20230318182617581](C:\Users\26685\AppData\Roaming\Typora\typora-user-images\image-20230318182617581.png)
+![image-20230318182617581](https://user-images.githubusercontent.com/63400257/226100991-2bc8c4d1-0726-4851-88bd-b08068b4e325.png)
 
